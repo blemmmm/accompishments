@@ -4,7 +4,7 @@ My learning journey to become a Web Developer
 -----------------------------------------------------------------
 ## Sample Projects
 - [First NextJS Blog](https://nextjs-blog.blessly-pera.vercel.app/)
-- [Sample Landing Page](nextjs.blessly-pera.vercel.app)
+- [Sample Landing Page](https://nextjs.blessly-pera.vercel.app)
   
   *Using NextJS and TailwindCSS*
   
