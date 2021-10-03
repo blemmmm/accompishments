@@ -27,7 +27,7 @@ My learning journey to become a Web Developer
 -----------------------------------------------------------------
 
 ## freeCodeCamp
-- [] Responsive Web Design
+- [ ] Responsive Web Design
   - [x] Basic HTML and HTML5
   - [x] Basic CSS
   - [x] Applied Visual Design
@@ -42,7 +42,7 @@ My learning journey to become a Web Developer
     - [] Build a Product Landing Page
     - [] Build a Technical Documentation Page
     - [] Build a Personal Portfolio Webpage
-- [] JavaScript Algorithms and Data Structures
+- [ ] JavaScript Algorithms and Data Structures
   - [x] Basic JavaScript
   - [x] ES6
   - [x] Regular Expressions
