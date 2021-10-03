@@ -1,4 +1,4 @@
-# accompishments
+# accomplishments
 My learning journey to become a Web Developer
 
 -----------------------------------------------------------------
