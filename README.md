@@ -18,7 +18,7 @@ My learning journey to become a Web Developer
   
   *Created using create-react-app, ReactJS, and TailwindCSS*
   
-- [Photoshop to HTML](github.com/blemmmm/crhsample)
+- [Photoshop to HTML](https://github.com/blemmmm/crhsample)
  
   *Created a page from .psd to HTML*
   
