@@ -2,6 +2,15 @@
 My learning journey to become a Web Developer
 
 -----------------------------------------------------------------
+## Languages and Frameworks Learned
+- HTML, CSS, Javascript
+- Modern Javascript (ES6)
+- ReactJS
+- NextJS
+- TailwindCSS
+
+-----------------------------------------------------------------
+
 ## Sample Projects
 - [First NextJS Blog](https://nextjs-blog.blessly-pera.vercel.app/)
 - [Sample Landing Page](https://nextjs.blessly-pera.vercel.app)
