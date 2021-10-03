@@ -39,25 +39,25 @@ My learning journey to become a Web Developer
       Link to [Tribute Page](https://codepen.io/blesslypera/pen/PomgeXr)
     - [x] Build a Survey Form
       Link to [Survey Form](https://codepen.io/blesslypera/pen/JjJpNpr)
-    - [] Build a Product Landing Page
-    - [] Build a Technical Documentation Page
-    - [] Build a Personal Portfolio Webpage
+    - [ ] Build a Product Landing Page
+    - [ ] Build a Technical Documentation Page
+    - [ ] Build a Personal Portfolio Webpage
 - [ ] JavaScript Algorithms and Data Structures
   - [x] Basic JavaScript
   - [x] ES6
   - [x] Regular Expressions
   - [x] Debugging
   - [x] Basic Data Structures   
-  - [] Basic Algorithm Scripting
-  - [] Object Oriented Programming
-  - [] Functional Programming
-  - [] Intermediate Algorithm Scripting
+  - [ ] Basic Algorithm Scripting
+  - [ ] Object Oriented Programming
+  - [ ] Functional Programming
+  - [ ] Intermediate Algorithm Scripting
   - JavaScript Algorithms and Data Structures Projects
-    - [] Palindrome Checker
-    - [] Roman Numeral Converter
-    - [] Caesars Cipher
-    - [] Telephone Number Validator
-    - [] Cash Register
+    - [ ] Palindrome Checker
+    - [ ] Roman Numeral Converter
+    - [ ] Caesars Cipher
+    - [ ] Telephone Number Validator
+    - [ ] Cash Register
 
 ## Scrimba
 - [x] **Learn JavaScript for free**
