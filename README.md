@@ -5,15 +5,25 @@ My learning journey to become a Web Developer
 ## Sample Projects
 - [First NextJS Blog](https://nextjs-blog.blessly-pera.vercel.app/)
 - [Sample Landing Page](nextjs.blessly-pera.vercel.app)
+  
   *Using NextJS and TailwindCSS*
+  
 - [Sample NextJS Form](https://samplenextform-blesslypera.vercel.app/)
+  
   *Using NextJS, TailwindCSS, SweetAlert and AirTable API*
+  
 - [Sample React Personal Dashboard](https://github.com/blemmmm/my-dashboard)
+
   *Still ongoing, having problems with the domain my-dashboard.xyz*
+  
   *Created using create-react-app, ReactJS, and TailwindCSS*
+  
 - [Photoshop to HTML](github.com/blemmmm/crhsample)
+ 
   *Created a page from .psd to HTML*
+  
   *The repo is private because I made it for technical exam in a job interview. I added it for the record*
+  
 -----------------------------------------------------------------
 
 ## freeCodeCamp
