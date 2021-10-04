@@ -1,3 +1,9 @@
+/* 
+  Returns true if the string in the first element 
+  of the array contains all of the letters of the string 
+  in the second element of the array. 
+*/
+
 function mutation(arr) {
   const index1 = arr[0].toLowerCase()
   const index2 = arr[1].toLowerCase()
@@ -15,4 +21,4 @@ function mutation(arr) {
   }
 }
 
-mutation(["Mary", "Army"])
+mutation(["Mary", "Army"])  //true

@@ -1,3 +1,5 @@
+// Returns the length of the longest word in the provided sentence.
+
 function findLongestWordLength(str) {
   const tempArray = str.split(" ")
   let maxIndex = 0
@@ -12,4 +14,4 @@ function findLongestWordLength(str) {
   return tempArray[maxIndex].length
 }
 
-findLongestWordLength("The quick brown fox jumped over the lazy dog");
+findLongestWordLength("The quick brown fox jumped over the lazy dog");  //6

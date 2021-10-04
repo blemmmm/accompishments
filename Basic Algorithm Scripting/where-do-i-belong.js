@@ -1,3 +1,8 @@
+/* 
+  Returns the lowest index at which a value (second argument) 
+  should be inserted into an array (first argument) once it has been sorted.
+*/
+
 function getIndexToIns(arr, num) {
   arr.sort((a, b) => a - b)
   let index = 0
@@ -19,4 +24,4 @@ function getIndexToIns(arr, num) {
   return index
 }
 
-getIndexToIns([2, 5, 10], 15)
+getIndexToIns([2, 5, 10], 15)  //3

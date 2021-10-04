@@ -1,3 +1,5 @@
+// Returns the provided string with the first letter of each word capitalized.
+
 function titleCase(str) {
   const arrString = str.split(" ")
   for (let i=0; i<arrString.length; i++) {
@@ -8,4 +10,4 @@ function titleCase(str) {
   return arrString.join(" ")
 }
 
-titleCase("HERE IS MY HANDLE HERE IS MY SPOUT");
+titleCase("HERE IS MY HANDLE HERE IS MY SPOUT");  //Here Is My Handle Here Is My Spout

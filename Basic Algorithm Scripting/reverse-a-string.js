@@ -1,3 +1,5 @@
+//Reverses the provided string.
+
 function reverseString(str) {
   const stringArray = str.split("")
   let newArray = []
@@ -7,4 +9,4 @@ function reverseString(str) {
   return newArray.join("")
 }
 
-reverseString("hello");
+reverseString("hello");  //olleh

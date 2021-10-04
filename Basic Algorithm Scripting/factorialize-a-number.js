@@ -1,3 +1,6 @@
+// Return the factorial of the provided integer.
+
+
 function factorialize(num) {
   
   let factorial = 1
@@ -12,4 +15,4 @@ function factorialize(num) {
   
 }
 
-factorialize(0);
+factorialize(5);  //120

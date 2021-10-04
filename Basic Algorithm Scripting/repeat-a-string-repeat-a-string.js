@@ -1,3 +1,5 @@
+// Repeats a given string str (first argument) for num times (second argument).
+
 function repeatStringNumTimes(str, num) {
   let finalString = ""
   if (num > 0) {
@@ -11,4 +13,4 @@ function repeatStringNumTimes(str, num) {
   return finalString
 }
 
-repeatStringNumTimes("abc", 0);
+repeatStringNumTimes("abc", 3);  //abcabcabc
