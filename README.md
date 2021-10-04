@@ -57,7 +57,7 @@ My learning journey to become a Web Developer
   - [x] Regular Expressions
   - [x] Debugging
   - [x] Basic Data Structures   
-  - [ ] Basic Algorithm Scripting
+  - [x] Basic Algorithm Scripting (Answers in )
   - [ ] Object Oriented Programming
   - [ ] Functional Programming
   - [ ] Intermediate Algorithm Scripting
