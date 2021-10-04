@@ -45,9 +45,13 @@ My learning journey to become a Web Developer
   - [x] CSS Flexbox
   - Responsive Web Design Projects
     - [x] Build a Tribute Page
+      
       Link to [Tribute Page](https://codepen.io/blesslypera/pen/PomgeXr)
+      
     - [x] Build a Survey Form
+   
       Link to [Survey Form](https://codepen.io/blesslypera/pen/JjJpNpr)
+      
     - [ ] Build a Product Landing Page
     - [ ] Build a Technical Documentation Page
     - [ ] Build a Personal Portfolio Webpage
