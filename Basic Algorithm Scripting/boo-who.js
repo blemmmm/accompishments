@@ -5,4 +5,4 @@ function booWho(bool) {
   return false
 }
 
-booWho(1);
+booWho(1);  //false
