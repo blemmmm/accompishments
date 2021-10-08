@@ -62,8 +62,8 @@ My learning journey to become a Web Developer
   - [x] Debugging
   - [x] Basic Data Structures   
   - [x] Basic Algorithm Scripting (Answers are in accomplishments/Basic Algorithm Scripting/)
-  - [ ] Object Oriented Programming
-  - [ ] Functional Programming
+  - [x] Object Oriented Programming
+  - [x] Functional Programming
   - [ ] Intermediate Algorithm Scripting
   - JavaScript Algorithms and Data Structures Projects
     - [ ] Palindrome Checker
