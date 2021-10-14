@@ -64,7 +64,7 @@ My learning journey to become a Web Developer
   - [x] Basic Algorithm Scripting (Answers are in accomplishments/Basic Algorithm Scripting/)
   - [x] Object Oriented Programming
   - [x] Functional Programming
-  - [ ] Intermediate Algorithm Scripting
+  - [x] Intermediate Algorithm Scripting (Answers are in accomplishments/Intermediate Algorithm Scripting/)
   - JavaScript Algorithms and Data Structures Projects
     - [ ] Palindrome Checker
     - [ ] Roman Numeral Converter
