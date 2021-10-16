@@ -65,7 +65,7 @@ My learning journey to become a Web Developer
   - [x] Object Oriented Programming
   - [x] Functional Programming
   - [x] Intermediate Algorithm Scripting (Answers are in accomplishments/Intermediate Algorithm Scripting/)
-  - JavaScript Algorithms and Data Structures Projects
+  - JavaScript Algorithms and Data Structures Projects (Answers are in accomplishments/JavaScript Algorithms and Data Structures Projects/)
     - [x] Palindrome Checker
     - [x] Roman Numeral Converter
     - [x] Caesars Cipher
