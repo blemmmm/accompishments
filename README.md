@@ -66,10 +66,10 @@ My learning journey to become a Web Developer
   - [x] Functional Programming
   - [x] Intermediate Algorithm Scripting (Answers are in accomplishments/Intermediate Algorithm Scripting/)
   - JavaScript Algorithms and Data Structures Projects
-    - [ ] Palindrome Checker
-    - [ ] Roman Numeral Converter
-    - [ ] Caesars Cipher
-    - [ ] Telephone Number Validator
+    - [x] Palindrome Checker
+    - [x] Roman Numeral Converter
+    - [x] Caesars Cipher
+    - [x] Telephone Number Validator
     - [ ] Cash Register
 
 ## Scrimba
