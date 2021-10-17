@@ -54,8 +54,8 @@ My learning journey to become a Web Developer
       
     - [ ] Build a Product Landing Page
     - [ ] Build a Technical Documentation Page
-    - [ ] Build a Personal Portfolio Webpage
-- [x] JavaScript Algorithms and Data Structures
+    - [ ] Build a Personal Portfolio Webpage)
+- [x] JavaScript Algorithms and Data Structures: [View Certification](https://www.freecodecamp.org/certification/blesslypera/javascript-algorithms-and-data-structures)
   - [x] Basic JavaScript
   - [x] ES6
   - [x] Regular Expressions
