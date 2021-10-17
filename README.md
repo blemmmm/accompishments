@@ -55,7 +55,7 @@ My learning journey to become a Web Developer
     - [ ] Build a Product Landing Page
     - [ ] Build a Technical Documentation Page
     - [ ] Build a Personal Portfolio Webpage
-- [ ] JavaScript Algorithms and Data Structures
+- [x] JavaScript Algorithms and Data Structures
   - [x] Basic JavaScript
   - [x] ES6
   - [x] Regular Expressions
@@ -70,7 +70,7 @@ My learning journey to become a Web Developer
     - [x] Roman Numeral Converter
     - [x] Caesars Cipher
     - [x] Telephone Number Validator
-    - [ ] Cash Register
+    - [x] Cash Register
 
 ## Scrimba
 - [x] **Learn JavaScript for free**
