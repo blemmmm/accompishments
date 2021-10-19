@@ -21,9 +21,9 @@ My learning journey to become a Web Developer
   
   *Using NextJS, TailwindCSS, SweetAlert and AirTable API*
   
-- [Sample React Personal Dashboard](https://github.com/blemmmm/my-dashboard)
+- [Sample React Personal Dashboard](https://my-dashboard-ebon.vercel.app/)
 
-  *Still ongoing, having problems with the domain my-dashboard.xyz*
+  *Still ongoing*
   
   *Created using create-react-app, ReactJS, and TailwindCSS*
   
