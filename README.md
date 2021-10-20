@@ -46,13 +46,16 @@ My learning journey to become a Web Developer
   - Responsive Web Design Projects
     - [x] Build a Tribute Page
       
-      > Link to [Tribute Page](https://codepen.io/blesslypera/pen/PomgeXr)
+      > Link to [Tribute Page](https://codepen.io/blesslypera/full/PomgeXr)
       
     - [x] Build a Survey Form
    
-      > Link to [Survey Form](https://codepen.io/blesslypera/pen/JjJpNpr)
+      > Link to [Survey Form](https://codepen.io/blesslypera/full/JjJpNpr)
       
     - [ ] Build a Product Landing Page
+    
+      > Link to [Product Landing Page](https://codepen.io/blesslypera/full/WNExabj)
+      
     - [ ] Build a Technical Documentation Page
     - [ ] Build a Personal Portfolio Webpage)
 - [x] JavaScript Algorithms and Data Structures: [View Certification](https://www.freecodecamp.org/certification/blesslypera/javascript-algorithms-and-data-structures)
