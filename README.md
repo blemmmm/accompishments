@@ -52,11 +52,14 @@ My learning journey to become a Web Developer
    
       > Link to [Survey Form](https://codepen.io/blesslypera/full/JjJpNpr)
       
-    - [ ] Build a Product Landing Page
+    - [x] Build a Product Landing Page
     
       > Link to [Product Landing Page](https://codepen.io/blesslypera/full/WNExabj)
       
-    - [ ] Build a Technical Documentation Page
+    - [x] Build a Technical Documentation Page
+    
+      > Link to [Technical Documentation Page](https://codepen.io/blesslypera/full/vYJgeGv)
+     
     - [ ] Build a Personal Portfolio Webpage)
 - [x] JavaScript Algorithms and Data Structures: [View Certification](https://www.freecodecamp.org/certification/blesslypera/javascript-algorithms-and-data-structures)
   - [x] Basic JavaScript
