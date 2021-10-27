@@ -43,7 +43,7 @@ My learning journey to become a Web Developer
   - [x] Applied Accessibility
   - [x] Responsive Web Design Principles
   - [x] CSS Flexbox
-  - Responsive Web Design Projects
+  - Responsive Web Design Projects: [View Certification](https://www.freecodecamp.org/certification/blesslypera/responsive-web-design)
     - [x] Build a Tribute Page
       
       > Link to [Tribute Page](https://codepen.io/blesslypera/full/PomgeXr)
@@ -60,7 +60,10 @@ My learning journey to become a Web Developer
     
       > Link to [Technical Documentation Page](https://codepen.io/blesslypera/full/vYJgeGv)
      
-    - [ ] Build a Personal Portfolio Webpage)
+    - [x] Build a Personal Portfolio Webpage
+    
+      > Link to [Personal Portfolio Webpage](https://codepen.io/blesslypera/full/WNEOoQL)
+   
 - [x] JavaScript Algorithms and Data Structures: [View Certification](https://www.freecodecamp.org/certification/blesslypera/javascript-algorithms-and-data-structures)
   - [x] Basic JavaScript
   - [x] ES6
@@ -144,3 +147,6 @@ My learning journey to become a Web Developer
   -  Writing modern React
   -  Local dev setup
   -  React Hooks
+
+
+- [ ] **Copywriting**
