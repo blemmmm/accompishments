@@ -156,4 +156,3 @@ My learning journey
   -  React Hooks
 
 
-- [ ] **Copywriting**
