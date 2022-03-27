@@ -18,7 +18,7 @@ My learning journey
 -----------------------------------------------------------------
 
 ## Sample Projects
-- [Recent Projects](https://blemmmm.github.io/)
+- [Recent Projects](https://blemmmm.github.io/#projects)
 - [First NextJS Blog](https://nextjs-blog.blessly-pera.vercel.app/)
 - [Sample Landing Page](https://nextjs.blessly-pera.vercel.app)
   
