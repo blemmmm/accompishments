@@ -38,7 +38,7 @@ My learning journey
 -----------------------------------------------------------------
 
 ## freeCodeCamp
-- [ ] Data Visualization with D3 - in progress
+- [x] Data Visualization with D3 - in progress
    - [ ] Visualize Data with a Bar Chart
    - [ ] Visualize Data with a Scatterplot Graph
 
