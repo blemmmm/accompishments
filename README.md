@@ -1,5 +1,5 @@
 # accomplishments
-My learning journey to become a Web Developer
+My learning journey 
 
 -----------------------------------------------------------------
 ## Languages and Frameworks Learned
