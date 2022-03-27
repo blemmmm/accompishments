@@ -36,7 +36,12 @@ My learning journey to become a Web Developer
 -----------------------------------------------------------------
 
 ## freeCodeCamp
-- [ ] Responsive Web Design
+- [ ] Data Visualization with D3 - in progress
+   - [ ] Visualize Data with a Bar Chart
+   - [ ] Visualize Data with a Scatterplot Graph
+
+
+- [x] Responsive Web Design
   - [x] Basic HTML and HTML5
   - [x] Basic CSS
   - [x] Applied Visual Design
