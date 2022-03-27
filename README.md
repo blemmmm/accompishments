@@ -2,12 +2,18 @@
 My learning journey 
 
 -----------------------------------------------------------------
-## Languages and Frameworks Learned
+## Languages / Frameworks / Libraries Learned/Used
 - HTML, CSS, Javascript
 - Modern Javascript (ES6)
 - ReactJS
 - NextJS
 - TailwindCSS
+- PostgreSQL
+- Fastify
+- Node.js
+- JSON API
+- Typesense API
+- Telegram Bot API
 
 -----------------------------------------------------------------
 
