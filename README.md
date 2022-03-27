@@ -26,12 +26,7 @@ My learning journey
 - [Sample NextJS Form](https://samplenextform-blesslypera.vercel.app/)
   
   *Using NextJS, TailwindCSS, SweetAlert and AirTable API*
-  
-- [Sample React Personal Dashboard](https://my-dashboard-ebon.vercel.app/)
-
-  *Still ongoing*
-  
-  *Created using create-react-app, ReactJS, and TailwindCSS*
+ 
   
 - [Photoshop to HTML](https://github.com/blemmmm/crhsample)
  
